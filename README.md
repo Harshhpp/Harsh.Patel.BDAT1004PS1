@@ -42,8 +42,17 @@ python spam_classifier.py
 - ## File Structure
 - .
 ├── data/
-│   └── spam.csv                
+ └── spam.csv                
 ├── spam_classifier.py        
 ├── report.pdf                 
 ├── requirements.txt           
 └── README.md                   
+
+- ## Future Work
+Experimenting with different categorization techniques (such as SVM and Logistic Regression) might improve model performance.
+Managing Unbalanced Data: To rectify class imbalance, methods such as SMOTE or class weights are used.
+Investigating deep learning models, like RNNs or BERT, for text classification in order to improve performance.
+
+- ## Acknowledgements
+Dataset source: https://www.kaggle.com/code/anaghakp/email-spam-detection/input
+Libraries: scikit-learn, matplotlib, seaborn
