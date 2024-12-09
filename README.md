@@ -42,8 +42,8 @@ python spam_classifier.py
 - ## File Structure
 - .
 ├── data/
-│   └── spam.csv                # Dataset
-├── spam_classifier.py          # Main script
-├── report.pdf                  # Project report
-├── requirements.txt            # Required libraries
-└── README.md                   # Project documentation
+│   └── spam.csv                
+├── spam_classifier.py        
+├── report.pdf                 
+├── requirements.txt           
+└── README.md                   
